@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on backend projects with python
 - 👯 I’m trying to expand my Software Engineering Network
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love both playing indie games 
+- ⚡ Fun fact: I love playing indie games 
 
 ### Connect with me:
 
